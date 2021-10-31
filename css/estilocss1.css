@@ -1,0 +1,168 @@
+*{  font-family: 'Lusitana', serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box
+    }
+
+body{
+    background-image: url(../img/cespedfondo1.jpg);
+}
+header{
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+
+/* cosas del header */
+
+.textoheader{
+    display: inline-block;
+    justify-content: left;
+    margin: 10px;
+    font-size: 20px;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+.enlaces{
+    display:inline-block;
+    width: 200px;
+    justify-content: flex-end;
+    column-gap: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:rgba(224, 247, 231, 0.829);
+    font-size: 15px;
+    
+}
+
+
+.textointro{
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+    font-size: 15px;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+
+
+/* apartado ppal  */
+
+
+.subtitulo{
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 20px;
+    padding: 15px;
+    background-color:rgba(224, 247, 231, 0.829);
+    border-radius: 5px;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: left;
+    margin: 15px;
+    padding: 15px;
+    font-size: 15px;
+    background-color:rgba(224, 247, 231, 0.829);
+    border-radius: 5px;
+}
+
+
+/* imagenes y video */
+
+
+
+.imagen1{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen2{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen3{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen4{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen5{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen6{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen7{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.imagen8{
+    margin:auto;
+    width:auto;
+    height: 150px;
+    display: block;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+
+.video{
+    position: relative;
+    left:30%;
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+
+
+
+
+/* 
+    <!-- /footer/ --> */
+
+.pie{
+    background-color:rgba(224, 247, 231, 0.829);
+}
+
+.infopie{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.autoria{
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    font-size: 10px;
+}
